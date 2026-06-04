@@ -4,5 +4,8 @@ notebook
 numpy
 pandas
 Pillow
+requests
 scikit-learn
+streamlit
+tensorflow
 tqdm

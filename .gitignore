@@ -12,11 +12,11 @@ __pycache__/
 data/
 dataset/
 datasets/
+artifacts/*.keras
 *.zip
 *.tar
 *.tar.gz
 *.h5
-*.keras
 *.pkl
 *.joblib
 
@@ -28,7 +28,4 @@ datasets/
 .env
 .DS_Store
 Thumbs.db
-
-# A ne pas pousser dans la v1 GitHub
-deepfake_detection_2026.ipynb
-models.py
+message.txt
