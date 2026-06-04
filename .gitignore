@@ -1,0 +1,34 @@
+# Environnements locaux
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Donnees et artefacts lourds
+data/
+dataset/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Caches locaux
+.kaggle/
+.cache/
+
+# Fichiers locaux / systeme
+.env
+.DS_Store
+Thumbs.db
+
+# A ne pas pousser dans la v1 GitHub
+deepfake_detection_2026.ipynb
+models.py
