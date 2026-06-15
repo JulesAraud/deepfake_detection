@@ -1,4 +1,4 @@
-# Projet de Détection de Deepfakes – Qui veut être meilleur que l'IA ? 🎭💰
+# Projet de Détection de Deepfakes – Qui veut être meilleur que l'IA ?
 
 ### Membres du Groupe
 
@@ -166,7 +166,7 @@ Nous avons développé une application ludique sous le format d'un jeu télévis
 * **Écran de règles d'introduction :**
   ![Règles du jeu](assets/rules_screen.png)
 
-* **Plateau de jeu actif (Jeu et Gains alignés) :**
+* **Plateau de jeu actif :**
   ![Plateau de Jeu](assets/gameplay_screen.png)
 
 ---
