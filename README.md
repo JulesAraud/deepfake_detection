@@ -156,10 +156,9 @@ Nous avons développé une application ludique sous le format d'un jeu télévis
 * **Humain vs IA :** Vous devez prédire si le visage affiché est réel ou généré, en même temps que notre IA forte MobileNetV2.
 * **Échelle des gains :** Les paliers de prix montent jusqu'à 1 000 000 €.
 * **Jokers implémentés :**
-  * **50:50 :** Surchauffe et ajoute des boutons de choix synonymes (ex: *Absolument*, *Aucunement*, *Que nenni*) au lieu d'en enlever.
   * **Appel à un Ami :** Interroge en temps réel notre modèle CNN plus faible entraîné localement et affiche son avis.
   * **Avis du Public :** Simule le vote du public sous forme de graphique en barres.
-* **Synonymes dynamiques :** L'image affiche une légende dynamique à chaque round avec des synonymes variés de visage (ex: *cette frimousse*, *ce minois*, *ce portrait*, *ce faciès*), préservant les accords grammaticaux.
+  * * **50:50 :** Un 50:50 fonctionnel
 
 ### Aperçu du Dashboard :
 
