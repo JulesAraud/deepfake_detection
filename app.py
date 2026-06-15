@@ -384,9 +384,9 @@ if "game_over" not in st.session_state:
 if "has_won" not in st.session_state:
     st.session_state.has_won = False
 if "current_image" not in st.session_state:
-    st.session_state.current_image = None
+    st.session_state.current_image = "50-50_2018.webp" if not st.runtime.exists() else None
 if "current_label" not in st.session_state:
-    st.session_state.current_label = None
+    st.session_state.current_label = "REAL" if not st.runtime.exists() else None
 if "stage" not in st.session_state:
     st.session_state.stage = "start"  # "start", "playing", "scanning", "result"
 if "jokers_used" not in st.session_state:
