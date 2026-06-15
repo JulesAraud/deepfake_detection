@@ -76,7 +76,7 @@ deepfake_detection-main/
 
 ---
 
-# Partie 1 — Data Science & Baseline Machine Learning
+# Partie 1 — Machine Learning classique
 
 ## Acquisition et préparation
 
@@ -116,7 +116,7 @@ Bien que solide pour un modèle linéaire simple, cette baseline souffre de la p
 
 ---
 
-# Partie 2 — Deep Learning Fondamental
+# Partie 2 — Réseau convolutif personnalisé (CNN)
 
 ## Architecture CNN
 
@@ -134,7 +134,7 @@ L'utilisation de convolutions permet de conserver les motifs de voisinage (2D), 
 
 ---
 
-# Partie 3 — Deep Learning Avancé & Déploiement
+# Partie 3 — Modèle avancé & Déploiement Streamlit
 
 ## Transfer Learning
 
